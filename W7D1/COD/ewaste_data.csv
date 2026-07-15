@@ -1,0 +1,9 @@
+center_id,date,device_type,weight_kg,processed_flag
+C001,2023-10-01,Smartphone,50.5,true
+C001,2023-10-02,Laptop,120.0,true
+C001,2023-10-03,Smartphone,20.0,false
+C002,2023-10-01,Tablet,45.0,true
+C002,2023-10-01,Tablet,-5.0,false
+C002,2023-10-02,Laptop,200.0,true
+C003,2023-10-04,Monitor,30.0,false
+C003,2023-10-05,Monitor,-10.0,false

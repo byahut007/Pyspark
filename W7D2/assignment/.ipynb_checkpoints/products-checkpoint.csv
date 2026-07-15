@@ -1,0 +1,20 @@
+itemName,Category,units,Amount
+Phone,Electronics,5,60000
+PowerBank,Utility,20,900
+Laptop,Electronics,10,150000
+Headphones,Electronics,15,7500
+Chair,Furniture,30,45000
+Table,Furniture,25,60000
+Notebook,Stationery,50,2500
+Pen,Stationery,100,1500
+Bag,Accessories,10,5000
+Watch,Accessories,7,35000
+Shirt,Apparel,40,8000
+Shoes,Apparel,30,18000
+Bottle,Utility,50,5000
+Speakers,Electronics,20,30000
+Mouse,Electronics,35,3500
+Book,Stationery,60,6000
+FanAppliances,12,24000
+Lamp	Furniture,20,20000
+Glasses	Accessories,15,22500

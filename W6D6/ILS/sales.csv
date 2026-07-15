@@ -1,0 +1,7 @@
+txn_id,cust_id,amount,category
+101,1,250,Electronics
+102,2,100,Books
+103,1,300,Fashion
+104,3,150,Electronics
+105,4,200,Books
+106,5,450,Fashion

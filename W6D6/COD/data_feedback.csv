@@ -1,0 +1,7 @@
+email,rating,comment
+alice@mail.com,5,Great service
+,3,Okay but could be better
+bob@mail.com,,No rating given
+invalid_email,4,Good experience
+eve@mail.com,4,Nice
+david@mail.com,3,Average

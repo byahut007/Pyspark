@@ -1,0 +1,21 @@
+user_id,series,season,timestamp,genre,duration_mins
+521,”Mirzapur”,3,2024-07-30 15:00:00,action,300
+672,”Panchayat”,3,2024-07-30 15:00:00,comedy,200
+197,”Family Man”,2,2024-07-30 15:00:00,action,500
+521,”Mirzapur”,2,2024-07-29 15:00:00,action,280
+211,”Queens Gambit”,1,2024-07-30 15:00:00,drama,170
+521,”Mirzapur”,1,2024-07-28 15:00:00,action,230
+844,”Westworld”,3,2024-07-30 15:00:00,sci-fi,310
+672,”Panchayat”,3,2024-07-29 15:00:00,comedy,210
+256,”Homecoming”,2,2024-07-30 15:00:00,thriller,310
+489,”Outer Range”,1,2024-07-30 15:00:00,sci-fi,340
+200,”Black Mirror”,2,2024-07-30 15:00:00,sci-fi,140
+256,”Outer Range”,2,2024-07-30 15:00:00,thriller,250
+489,”Outer Range”,2,2024-07-28 15:00:00,sci-fi,170
+200,”Black Mirror”,3,2024-07-29 15:00:00,sci-fi,190
+672,”Panchayat”,2,2024-07-28 15:00:00,comedy,160
+672,”Outer Range”,1,2024-07-25 15:00:00,sci-fi,250
+200,”Black Mirror”,4,2024-07-28 15:00:00,sci-fi,200
+844,”Westworld”,2,2024-07-29 15:00:00,sci-fi,300
+672,”Black Mirror”,5,2024-07-28 15:00:00,sci-fi,150
+672,”Panchayat”,1,2024-07-27 15:00:00,comedy,190

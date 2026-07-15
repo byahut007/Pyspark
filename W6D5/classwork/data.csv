@@ -1,0 +1,11 @@
+product_id,product,country,sales
+1,Product A,USA,100
+2,Product B,USA,80
+3,Product C,USA,30
+1,Product A,Canada,60
+2,Product B,Canada,40
+4,Product D,UK,50
+5,Product E,UK,20
+1,Product A,Germany,70
+3,Product C,Germany,90
+4,Product D,Germany,40

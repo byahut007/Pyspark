@@ -1,0 +1,501 @@
+order_id,order_date,customer_id,product,category,quantity,unit_price,payment_method,store_city
+1,2025-01-13,CUST5506,Phone,Electronics,4,425.09,Cash,Mumbai
+2,2025-08-05,CUST1520,Chair,Furniture,1,87.28,Credit Card,Hyderabad
+3,2025-04-12,CUST9928,Coffee,Groceries,7,11.33,Net Banking,Delhi
+4,2025-03-23,CUST7924,Laptop,Electronics,6,621.12,Credit Card,Pune
+5,2025-02-17,CUST7224,Phone,Electronics,2,437.31,Debit Card,Delhi
+6,2025-08-24,CUST9785,Laptop,Electronics,2,711.51,UPI,Mumbai
+7,2025-05-31,CUST6925,Coffee,Groceries,10,11.26,Cash,Hyderabad
+8,2025-05-29,CUST2307,Shirt,Clothing,4,26.83,UPI,Delhi
+9,2025-11-22,CUST6977,Milk,Groceries,3,3.41,Credit Card,Delhi
+10,2025-11-08,CUST3803,Phone,Electronics,9,470.62,Credit Card,Ahmedabad
+11,2025-05-19,CUST4598,Rice,Groceries,6,19.23,Cash,Chennai
+12,2025-06-11,CUST7572,Laptop,Electronics,5,593.6,Net Banking,Pune
+13,2025-12-02,CUST9179,Shirt,Clothing,7,26.92,UPI,Bengaluru
+14,2025-03-13,CUST5040,Jeans,Clothing,9,40.31,Net Banking,Kolkata
+15,2025-07-24,CUST6930,Chair,Furniture,4,104.45,Credit Card,Ahmedabad
+16,2025-01-25,CUST2796,Phone,Electronics,3,461.47,UPI,Mumbai
+17,2025-07-15,CUST8668,Rice,Groceries,9,17.11,Net Banking,Hyderabad
+18,2025-12-16,CUST9797,Phone,Electronics,5,474.17,Debit Card,Mumbai
+19,2025-08-11,CUST3591,Jeans,Clothing,8,36.03,Debit Card,Bengaluru
+20,2025-02-24,CUST5889,Coffee,Groceries,9,12.26,Credit Card,Pune
+21,2025-10-04,CUST9689,Headphones,Electronics,1,61.19,UPI,Hyderabad
+22,2025-07-05,CUST6038,Phone,Electronics,4,410.21,Net Banking,Mumbai
+23,2025-09-06,CUST2133,Phone,Electronics,9,473.93,Credit Card,Ahmedabad
+24,2025-03-26,CUST5342,Coffee,Groceries,9,12.89,UPI,Chennai
+25,2025-12-20,CUST4295,Coffee,Groceries,5,11.76,Debit Card,Ahmedabad
+26,2025-08-20,CUST2982,Coffee,Groceries,4,11.34,Debit Card,Hyderabad
+27,2025-10-11,CUST4770,Chair,Furniture,10,89.68,Cash,Hyderabad
+28,2025-02-04,CUST1514,Shirt,Clothing,6,22.85,Credit Card,Delhi
+29,2025-04-20,CUST9834,Milk,Groceries,3,3.66,Net Banking,Ahmedabad
+30,2025-08-31,CUST7669,Shirt,Clothing,4,22.97,UPI,Pune
+31,2025-07-30,CUST8651,Rice,Groceries,1,18.62,Cash,Hyderabad
+32,2025-06-23,CUST2790,Rice,Groceries,4,16.89,Net Banking,Ahmedabad
+33,2025-08-05,CUST4006,Headphones,Electronics,5,59.55,Cash,Ahmedabad
+34,2025-02-20,CUST1828,Coffee,Groceries,9,12.81,Cash,Chennai
+35,2025-07-28,CUST8956,Headphones,Electronics,8,56.56,UPI,Hyderabad
+36,2025-07-14,CUST1035,Headphones,Electronics,7,57.18,UPI,Delhi
+37,2025-12-23,CUST8973,Rice,Groceries,3,16.88,Credit Card,Hyderabad
+38,2025-10-05,CUST1998,Chair,Furniture,6,86.59,Net Banking,Ahmedabad
+39,2025-09-29,CUST3579,Coffee,Groceries,1,13.11,Cash,Bengaluru
+40,2025-11-01,CUST2113,Phone,Electronics,4,441.34,Net Banking,Chennai
+41,2025-11-01,CUST1651,Chair,Furniture,10,87.06,Net Banking,Pune
+42,2025-04-15,CUST6147,Jeans,Clothing,4,38.12,Credit Card,Delhi
+43,2025-06-11,CUST2188,Milk,Groceries,1,3.47,Net Banking,Mumbai
+44,2025-10-03,CUST4492,Phone,Electronics,9,428.87,Debit Card,Mumbai
+45,2025-07-09,CUST5669,Shirt,Clothing,3,24.69,Net Banking,Delhi
+46,2025-12-01,CUST9666,Chair,Furniture,1,98.19,Net Banking,Delhi
+47,2025-03-10,CUST5333,Phone,Electronics,2,485.07,Net Banking,Bengaluru
+48,2025-05-25,CUST4450,Jeans,Clothing,6,37.63,Debit Card,Ahmedabad
+49,2025-01-27,CUST2512,Jeans,Clothing,7,42.63,Cash,Hyderabad
+50,2025-03-08,CUST5291,Shoes,Footwear,3,73.38,Net Banking,Kolkata
+51,2025-01-05,CUST2832,Coffee,Groceries,2,13.07,Credit Card,Hyderabad
+52,2025-10-26,CUST3426,Shoes,Footwear,7,64.78,Debit Card,Pune
+53,2025-07-03,CUST4441,Laptop,Electronics,4,671.7,Debit Card,Kolkata
+54,2025-03-21,CUST4878,Chair,Furniture,3,104.05,Credit Card,Kolkata
+55,2025-04-02,CUST6442,Laptop,Electronics,7,689.29,Credit Card,Delhi
+56,2025-12-26,CUST2771,Headphones,Electronics,7,64.47,UPI,Chennai
+57,2025-08-24,CUST6728,Shirt,Clothing,5,26.6,Credit Card,Chennai
+58,2025-12-04,CUST4164,Laptop,Electronics,7,627.67,Cash,Delhi
+59,2025-11-25,CUST9346,Shoes,Footwear,7,72.51,Net Banking,Pune
+60,2025-03-01,CUST5279,Laptop,Electronics,3,660.48,Debit Card,Hyderabad
+61,2025-11-02,CUST8119,Phone,Electronics,6,470.57,Debit Card,Kolkata
+62,2025-09-19,CUST2894,Chair,Furniture,7,102.59,Credit Card,Delhi
+63,2025-12-29,CUST8144,Laptop,Electronics,1,652.59,Net Banking,Chennai
+64,2025-08-09,CUST2146,Shoes,Footwear,6,71.72,Cash,Delhi
+65,2025-06-08,CUST7691,Coffee,Groceries,6,11.77,Debit Card,Bengaluru
+66,2025-08-04,CUST7211,Shirt,Clothing,3,25.58,Debit Card,Kolkata
+67,2025-01-01,CUST5978,Coffee,Groceries,5,11.3,Net Banking,Pune
+68,2025-08-15,CUST8244,Milk,Groceries,4,3.51,Credit Card,Mumbai
+69,2025-09-21,CUST6491,Jeans,Clothing,2,42.55,Credit Card,Delhi
+70,2025-04-12,CUST3414,Shirt,Clothing,1,22.73,UPI,Mumbai
+71,2025-08-01,CUST4185,Milk,Groceries,7,3.5,Credit Card,Bengaluru
+72,2025-02-24,CUST7965,Laptop,Electronics,4,607.87,Net Banking,Ahmedabad
+73,2025-10-13,CUST5082,Laptop,Electronics,2,644.34,UPI,Pune
+74,2025-11-10,CUST9270,Milk,Groceries,7,3.73,Net Banking,Ahmedabad
+75,2025-09-01,CUST8373,Headphones,Electronics,5,63.02,Debit Card,Ahmedabad
+76,2025-05-21,CUST8206,Shirt,Clothing,2,26.07,Credit Card,Delhi
+77,2025-06-13,CUST9849,Shoes,Footwear,2,64.94,Credit Card,Kolkata
+78,2025-12-28,CUST4505,Headphones,Electronics,2,58.98,Debit Card,Ahmedabad
+79,2025-02-01,CUST4388,Rice,Groceries,7,17.6,Net Banking,Hyderabad
+80,2025-07-14,CUST8814,Chair,Furniture,1,103.41,Debit Card,Kolkata
+81,2025-10-03,CUST9947,Rice,Groceries,10,19.43,UPI,Chennai
+82,2025-08-12,CUST8956,Jeans,Clothing,1,39.11,UPI,Bengaluru
+83,2025-03-07,CUST9751,Milk,Groceries,1,3.78,Net Banking,Hyderabad
+84,2025-11-26,CUST8022,Phone,Electronics,3,483.02,Credit Card,Hyderabad
+85,2025-07-14,CUST6363,Jeans,Clothing,4,39.64,Debit Card,Kolkata
+86,2025-08-04,CUST5133,Jeans,Clothing,2,39.76,Net Banking,Hyderabad
+87,2025-04-25,CUST2124,Shoes,Footwear,1,73.56,Credit Card,Chennai
+88,2025-11-15,CUST3496,Laptop,Electronics,4,601.41,Cash,Chennai
+89,2025-12-25,CUST5198,Milk,Groceries,6,3.27,Net Banking,Mumbai
+90,2025-06-09,CUST2771,Headphones,Electronics,10,54.31,Debit Card,Kolkata
+91,2025-04-12,CUST2245,Rice,Groceries,10,18.69,Credit Card,Mumbai
+92,2025-12-17,CUST2983,Jeans,Clothing,10,42.26,Debit Card,Kolkata
+93,2025-02-05,CUST9289,Shoes,Footwear,6,63.18,UPI,Ahmedabad
+94,2025-08-10,CUST6934,Phone,Electronics,8,468.66,UPI,Bengaluru
+95,2025-11-30,CUST5425,Coffee,Groceries,10,12.74,Net Banking,Ahmedabad
+96,2025-08-12,CUST5397,Milk,Groceries,6,3.75,Cash,Delhi
+97,2025-05-05,CUST8613,Milk,Groceries,10,3.58,UPI,Pune
+98,2025-09-11,CUST6325,Laptop,Electronics,3,648.38,Debit Card,Delhi
+99,2025-05-24,CUST5526,Shoes,Footwear,9,63.14,Credit Card,Mumbai
+100,2025-07-28,CUST9004,Shirt,Clothing,9,26.29,UPI,Ahmedabad
+101,2025-01-09,CUST2524,Milk,Groceries,5,3.31,Credit Card,Delhi
+102,2025-07-08,CUST8753,Chair,Furniture,9,95.59,UPI,Pune
+103,2025-12-26,CUST8434,Shoes,Footwear,5,67.29,Credit Card,Mumbai
+104,2025-06-11,CUST2958,Shirt,Clothing,9,27.25,Credit Card,Chennai
+105,2025-09-05,CUST5530,Shirt,Clothing,10,27.38,Net Banking,Delhi
+106,2025-04-10,CUST5853,Phone,Electronics,4,437.48,Debit Card,Hyderabad
+107,2025-03-06,CUST5494,Coffee,Groceries,1,13.14,Net Banking,Delhi
+108,2025-11-23,CUST9042,Headphones,Electronics,2,64.47,Net Banking,Delhi
+109,2025-09-03,CUST8216,Milk,Groceries,6,3.28,Cash,Delhi
+110,2025-02-28,CUST2070,Milk,Groceries,7,3.49,Net Banking,Hyderabad
+111,2025-03-18,CUST5978,Headphones,Electronics,2,65.93,Cash,Kolkata
+112,2025-11-02,CUST4697,Chair,Furniture,9,92.73,UPI,Delhi
+113,2025-08-08,CUST6003,Chair,Furniture,10,97.3,Net Banking,Mumbai
+114,2025-11-17,CUST4457,Shirt,Clothing,5,25.8,Credit Card,Chennai
+115,2025-10-10,CUST2229,Headphones,Electronics,3,54.03,UPI,Ahmedabad
+116,2025-01-17,CUST4792,Jeans,Clothing,5,41.66,UPI,Mumbai
+117,2025-05-16,CUST4241,Shirt,Clothing,7,23.07,Credit Card,Bengaluru
+118,2025-03-14,CUST2169,Jeans,Clothing,1,37.33,Debit Card,Delhi
+119,2025-03-05,CUST8679,Milk,Groceries,5,3.64,Debit Card,Ahmedabad
+120,2025-02-11,CUST1653,Milk,Groceries,7,3.66,Net Banking,Delhi
+121,2025-02-16,CUST4750,Laptop,Electronics,10,661.33,Cash,Delhi
+122,2025-01-21,CUST3870,Chair,Furniture,8,95.36,UPI,Delhi
+123,2025-10-27,CUST8141,Headphones,Electronics,8,65.63,UPI,Pune
+124,2025-06-20,CUST6260,Rice,Groceries,2,19.29,Debit Card,Kolkata
+125,2025-05-28,CUST7561,Milk,Groceries,9,3.18,Cash,Pune
+126,2025-06-15,CUST2899,Jeans,Clothing,7,42.92,Cash,Ahmedabad
+127,2025-01-28,CUST4073,Rice,Groceries,9,17.5,UPI,Ahmedabad
+128,2025-04-15,CUST5375,Laptop,Electronics,9,602.03,Debit Card,Ahmedabad
+129,2025-03-04,CUST1472,Milk,Groceries,10,3.71,Credit Card,Delhi
+130,2025-01-08,CUST7684,Coffee,Groceries,2,11.34,Cash,Ahmedabad
+131,2025-11-28,CUST3522,Phone,Electronics,8,488.94,Debit Card,Delhi
+132,2025-09-05,CUST8736,Rice,Groceries,4,17.84,Credit Card,Kolkata
+133,2025-11-03,CUST9327,Shirt,Clothing,3,26.82,Debit Card,Kolkata
+134,2025-09-17,CUST5377,Shoes,Footwear,1,66.96,Debit Card,Ahmedabad
+135,2025-08-17,CUST9824,Headphones,Electronics,8,58.14,Net Banking,Kolkata
+136,2025-06-14,CUST4090,Milk,Groceries,4,3.55,Credit Card,Kolkata
+137,2025-06-12,CUST8749,Laptop,Electronics,7,635.19,Credit Card,Ahmedabad
+138,2025-03-06,CUST9229,Laptop,Electronics,10,628.16,Cash,Ahmedabad
+139,2025-09-27,CUST8486,Phone,Electronics,1,470.02,UPI,Bengaluru
+140,2025-08-29,CUST5342,Phone,Electronics,6,461.09,UPI,Mumbai
+141,2025-12-12,CUST9742,Shoes,Footwear,7,76.36,UPI,Hyderabad
+142,2025-02-05,CUST4846,Chair,Furniture,5,104.45,Cash,Kolkata
+143,2025-11-21,CUST2646,Phone,Electronics,8,419.97,Debit Card,Hyderabad
+144,2025-06-16,CUST1919,Laptop,Electronics,5,631.6,UPI,Bengaluru
+145,2025-09-29,CUST7751,Shirt,Clothing,10,25.91,Credit Card,Bengaluru
+146,2025-02-10,CUST7267,Headphones,Electronics,10,62.2,UPI,Bengaluru
+147,2025-08-25,CUST5161,Shirt,Clothing,8,23.78,Cash,Ahmedabad
+148,2025-12-13,CUST9955,Jeans,Clothing,3,36.59,Debit Card,Delhi
+149,2025-12-20,CUST5097,Rice,Groceries,8,19.24,Credit Card,Kolkata
+150,2025-02-24,CUST4886,Milk,Groceries,7,3.55,Net Banking,Delhi
+151,2025-01-12,CUST7484,Jeans,Clothing,5,36.06,Cash,Ahmedabad
+152,2025-04-28,CUST6772,Jeans,Clothing,4,41.09,Net Banking,Delhi
+153,2025-11-18,CUST2591,Headphones,Electronics,1,57.71,UPI,Hyderabad
+154,2025-07-06,CUST3153,Chair,Furniture,2,102.78,Debit Card,Kolkata
+155,2025-04-13,CUST3165,Headphones,Electronics,9,64.52,Debit Card,Delhi
+156,2025-05-12,CUST8894,Headphones,Electronics,5,62.96,Debit Card,Mumbai
+157,2025-02-08,CUST3306,Milk,Groceries,4,3.75,UPI,Pune
+158,2025-07-22,CUST1228,Phone,Electronics,5,453.29,UPI,Pune
+159,2025-10-27,CUST7242,Jeans,Clothing,6,36.87,Credit Card,Ahmedabad
+160,2025-11-14,CUST6374,Laptop,Electronics,10,613.78,Cash,Ahmedabad
+161,2025-11-29,CUST7689,Jeans,Clothing,2,37.12,Cash,Delhi
+162,2025-03-01,CUST2592,Milk,Groceries,4,3.77,Credit Card,Kolkata
+163,2025-07-09,CUST9850,Milk,Groceries,7,3.56,Credit Card,Kolkata
+164,2025-09-08,CUST7686,Phone,Electronics,5,407.94,Debit Card,Chennai
+165,2025-08-16,CUST4868,Milk,Groceries,6,3.22,Debit Card,Pune
+166,2025-07-23,CUST5520,Laptop,Electronics,4,710.87,UPI,Mumbai
+167,2025-11-25,CUST1349,Shirt,Clothing,1,26.43,Credit Card,Bengaluru
+168,2025-04-16,CUST2124,Chair,Furniture,9,89.44,Credit Card,Chennai
+169,2025-03-17,CUST1046,Shoes,Footwear,5,75.02,Credit Card,Bengaluru
+170,2025-05-09,CUST3858,Coffee,Groceries,2,12.39,Cash,Bengaluru
+171,2025-07-03,CUST4898,Laptop,Electronics,10,627.09,Credit Card,Delhi
+172,2025-03-06,CUST7897,Laptop,Electronics,9,599.77,Cash,Ahmedabad
+173,2025-07-05,CUST9408,Milk,Groceries,10,3.23,Net Banking,Chennai
+174,2025-01-23,CUST9543,Chair,Furniture,5,94.2,Cash,Hyderabad
+175,2025-07-25,CUST7984,Milk,Groceries,2,3.49,UPI,Mumbai
+176,2025-06-14,CUST3430,Phone,Electronics,2,416.36,Net Banking,Pune
+177,2025-11-02,CUST9692,Rice,Groceries,5,17.83,Net Banking,Kolkata
+178,2025-12-26,CUST2874,Phone,Electronics,9,469.88,Credit Card,Kolkata
+179,2025-04-27,CUST7779,Milk,Groceries,6,3.73,UPI,Kolkata
+180,2025-06-10,CUST7992,Phone,Electronics,6,464.86,Debit Card,Bengaluru
+181,2025-02-04,CUST2494,Milk,Groceries,2,3.22,Cash,Pune
+182,2025-10-12,CUST1982,Headphones,Electronics,10,65.48,Net Banking,Pune
+183,2025-07-30,CUST6793,Phone,Electronics,7,483.13,Cash,Delhi
+184,2025-06-09,CUST6761,Chair,Furniture,2,96.48,Credit Card,Bengaluru
+185,2025-04-25,CUST2773,Milk,Groceries,6,3.74,Debit Card,Mumbai
+186,2025-10-21,CUST4705,Jeans,Clothing,7,42.76,Net Banking,Hyderabad
+187,2025-12-03,CUST5381,Chair,Furniture,1,88.93,Debit Card,Pune
+188,2025-01-04,CUST3972,Shoes,Footwear,3,70.93,UPI,Mumbai
+189,2025-11-21,CUST1502,Headphones,Electronics,2,62.95,Credit Card,Kolkata
+190,2025-08-21,CUST6585,Rice,Groceries,3,17.53,Debit Card,Mumbai
+191,2025-03-21,CUST3579,Laptop,Electronics,10,591.47,Cash,Delhi
+192,2025-12-05,CUST7947,Milk,Groceries,8,3.57,UPI,Delhi
+193,2025-09-20,CUST2864,Shirt,Clothing,6,24.65,Debit Card,Ahmedabad
+194,2025-12-08,CUST6053,Coffee,Groceries,1,11.33,Net Banking,Hyderabad
+195,2025-04-15,CUST5938,Laptop,Electronics,4,684.76,Debit Card,Delhi
+196,2025-03-03,CUST1126,Shoes,Footwear,8,73.46,Credit Card,Bengaluru
+197,2025-09-30,CUST4770,Rice,Groceries,9,18.21,Debit Card,Mumbai
+198,2025-01-22,CUST8147,Rice,Groceries,1,17.86,Cash,Pune
+199,2025-08-08,CUST7626,Chair,Furniture,7,91.0,UPI,Hyderabad
+200,2025-03-29,CUST8538,Shoes,Footwear,6,64.23,Cash,Chennai
+201,2025-10-29,CUST7560,Rice,Groceries,9,16.48,Debit Card,Pune
+202,2025-06-20,CUST3754,Shirt,Clothing,2,25.05,Cash,Chennai
+203,2025-06-29,CUST3419,Shoes,Footwear,4,64.44,Debit Card,Chennai
+204,2025-11-05,CUST3504,Headphones,Electronics,2,56.13,UPI,Ahmedabad
+205,2025-10-24,CUST8354,Chair,Furniture,10,97.72,Net Banking,Pune
+206,2025-03-19,CUST8205,Shoes,Footwear,2,69.56,Debit Card,Delhi
+207,2025-01-29,CUST6766,Chair,Furniture,9,86.91,UPI,Ahmedabad
+208,2025-01-30,CUST7041,Laptop,Electronics,5,594.98,Cash,Kolkata
+209,2025-10-25,CUST1672,Milk,Groceries,8,3.79,Net Banking,Chennai
+210,2025-11-06,CUST8792,Shoes,Footwear,9,65.11,Cash,Ahmedabad
+211,2025-06-25,CUST2381,Phone,Electronics,9,463.15,Cash,Chennai
+212,2025-08-13,CUST9586,Milk,Groceries,9,3.58,Debit Card,Pune
+213,2025-07-18,CUST7697,Jeans,Clothing,6,41.43,Cash,Pune
+214,2025-06-18,CUST2548,Phone,Electronics,9,466.05,Debit Card,Delhi
+215,2025-03-18,CUST6461,Chair,Furniture,2,96.57,Credit Card,Pune
+216,2025-12-02,CUST7421,Jeans,Clothing,3,40.76,Cash,Delhi
+217,2025-07-12,CUST6381,Coffee,Groceries,3,12.41,Net Banking,Mumbai
+218,2025-09-18,CUST6928,Rice,Groceries,1,17.51,Credit Card,Chennai
+219,2025-09-06,CUST4145,Shoes,Footwear,4,77.0,Credit Card,Mumbai
+220,2025-02-21,CUST9317,Jeans,Clothing,9,42.68,Net Banking,Hyderabad
+221,2025-11-13,CUST3147,Shoes,Footwear,10,68.27,Credit Card,Bengaluru
+222,2025-03-26,CUST8170,Chair,Furniture,1,93.31,Credit Card,Ahmedabad
+223,2025-05-26,CUST8355,Chair,Furniture,4,95.65,Debit Card,Ahmedabad
+224,2025-07-08,CUST8218,Shirt,Clothing,8,26.35,UPI,Kolkata
+225,2025-04-13,CUST3267,Headphones,Electronics,5,54.63,UPI,Pune
+226,2025-02-22,CUST9452,Coffee,Groceries,2,11.48,Credit Card,Delhi
+227,2025-09-20,CUST3414,Milk,Groceries,7,3.21,Credit Card,Ahmedabad
+228,2025-01-14,CUST7797,Shoes,Footwear,1,68.55,Debit Card,Chennai
+229,2025-02-11,CUST7142,Rice,Groceries,4,16.3,Cash,Pune
+230,2025-03-12,CUST1627,Headphones,Electronics,5,65.01,UPI,Bengaluru
+231,2025-08-18,CUST1086,Milk,Groceries,2,3.16,Credit Card,Bengaluru
+232,2025-11-08,CUST9647,Coffee,Groceries,7,11.07,Debit Card,Chennai
+233,2025-03-04,CUST1782,Jeans,Clothing,4,39.36,Net Banking,Ahmedabad
+234,2025-02-26,CUST9189,Phone,Electronics,10,453.24,Net Banking,Chennai
+235,2025-05-30,CUST8032,Headphones,Electronics,1,61.38,Credit Card,Kolkata
+236,2025-12-07,CUST2402,Headphones,Electronics,9,65.7,Cash,Hyderabad
+237,2025-08-29,CUST1713,Rice,Groceries,7,19.73,Debit Card,Hyderabad
+238,2025-02-04,CUST6649,Shoes,Footwear,4,73.26,Cash,Pune
+239,2025-01-23,CUST6772,Headphones,Electronics,9,58.06,Credit Card,Ahmedabad
+240,2025-11-20,CUST3986,Milk,Groceries,3,3.19,UPI,Hyderabad
+241,2025-04-14,CUST1717,Jeans,Clothing,4,43.09,Debit Card,Delhi
+242,2025-07-23,CUST9897,Coffee,Groceries,8,11.41,Credit Card,Delhi
+243,2025-01-25,CUST6438,Shoes,Footwear,5,64.74,Debit Card,Kolkata
+244,2025-08-14,CUST7334,Rice,Groceries,6,19.71,UPI,Ahmedabad
+245,2025-09-23,CUST5369,Shoes,Footwear,2,73.18,Cash,Kolkata
+246,2025-04-03,CUST9937,Chair,Furniture,5,91.6,Cash,Pune
+247,2025-06-06,CUST8305,Jeans,Clothing,10,41.74,Credit Card,Ahmedabad
+248,2025-08-17,CUST1693,Shoes,Footwear,6,71.61,UPI,Delhi
+249,2025-02-08,CUST7655,Laptop,Electronics,6,651.7,Credit Card,Hyderabad
+250,2025-11-08,CUST8179,Headphones,Electronics,1,55.51,Credit Card,Pune
+251,2025-07-16,CUST1530,Shoes,Footwear,10,65.15,UPI,Pune
+252,2025-08-16,CUST2259,Shoes,Footwear,10,64.93,Debit Card,Kolkata
+253,2025-11-29,CUST5566,Shoes,Footwear,4,76.45,Cash,Bengaluru
+254,2025-09-23,CUST7340,Milk,Groceries,9,3.23,Debit Card,Ahmedabad
+255,2025-11-10,CUST5678,Shirt,Clothing,8,23.5,Credit Card,Mumbai
+256,2025-03-30,CUST8292,Milk,Groceries,2,3.72,Debit Card,Pune
+257,2025-10-09,CUST9882,Phone,Electronics,5,485.22,Credit Card,Bengaluru
+258,2025-09-18,CUST4673,Shoes,Footwear,2,76.79,Credit Card,Chennai
+259,2025-01-14,CUST6912,Milk,Groceries,9,3.55,UPI,Bengaluru
+260,2025-02-14,CUST2077,Chair,Furniture,5,93.07,UPI,Kolkata
+261,2025-10-22,CUST2208,Rice,Groceries,3,19.7,Cash,Ahmedabad
+262,2025-12-15,CUST9476,Milk,Groceries,6,3.24,Net Banking,Bengaluru
+263,2025-08-10,CUST9238,Headphones,Electronics,1,63.98,Net Banking,Bengaluru
+264,2025-03-26,CUST3653,Jeans,Clothing,6,43.48,Credit Card,Pune
+265,2025-05-26,CUST2292,Coffee,Groceries,5,11.27,Net Banking,Delhi
+266,2025-11-17,CUST5961,Headphones,Electronics,10,60.4,Net Banking,Bengaluru
+267,2025-10-25,CUST3526,Chair,Furniture,3,98.02,Net Banking,Pune
+268,2025-01-22,CUST1464,Chair,Furniture,2,86.36,Net Banking,Delhi
+269,2025-10-20,CUST7825,Shirt,Clothing,10,25.69,UPI,Delhi
+270,2025-09-05,CUST5012,Jeans,Clothing,7,38.38,Cash,Hyderabad
+271,2025-08-14,CUST7809,Headphones,Electronics,8,59.57,Debit Card,Bengaluru
+272,2025-06-13,CUST6658,Shoes,Footwear,7,64.83,Debit Card,Mumbai
+273,2025-05-04,CUST8642,Shoes,Footwear,2,66.74,Credit Card,Bengaluru
+274,2025-01-26,CUST5754,Phone,Electronics,7,482.77,UPI,Chennai
+275,2025-06-17,CUST6123,Headphones,Electronics,4,63.16,UPI,Ahmedabad
+276,2025-06-07,CUST9148,Milk,Groceries,1,3.21,UPI,Ahmedabad
+277,2025-04-21,CUST6781,Shirt,Clothing,1,22.75,UPI,Ahmedabad
+278,2025-10-02,CUST1133,Jeans,Clothing,2,39.45,Debit Card,Pune
+279,2025-07-07,CUST1741,Rice,Groceries,7,16.38,Net Banking,Chennai
+280,2025-10-11,CUST5728,Shoes,Footwear,2,68.41,UPI,Delhi
+281,2025-12-15,CUST2946,Chair,Furniture,3,104.03,UPI,Pune
+282,2025-10-13,CUST6990,Shoes,Footwear,3,65.79,Net Banking,Kolkata
+283,2025-01-21,CUST1742,Coffee,Groceries,1,11.13,Debit Card,Ahmedabad
+284,2025-08-22,CUST3440,Coffee,Groceries,10,12.94,Credit Card,Pune
+285,2025-06-13,CUST3662,Chair,Furniture,7,104.32,Debit Card,Pune
+286,2025-09-18,CUST9721,Coffee,Groceries,8,12.5,Debit Card,Ahmedabad
+287,2025-07-08,CUST6427,Laptop,Electronics,2,712.39,Net Banking,Delhi
+288,2025-11-02,CUST8775,Laptop,Electronics,5,710.72,Net Banking,Chennai
+289,2025-10-26,CUST8871,Laptop,Electronics,3,653.15,Net Banking,Kolkata
+290,2025-12-15,CUST4968,Headphones,Electronics,1,60.87,Cash,Chennai
+291,2025-08-14,CUST6139,Laptop,Electronics,7,604.69,Credit Card,Kolkata
+292,2025-11-10,CUST8726,Coffee,Groceries,1,12.49,Net Banking,Chennai
+293,2025-06-16,CUST8837,Coffee,Groceries,9,11.7,Credit Card,Ahmedabad
+294,2025-06-25,CUST9950,Coffee,Groceries,6,12.42,Debit Card,Ahmedabad
+295,2025-05-07,CUST5571,Shirt,Clothing,9,23.99,Debit Card,Delhi
+296,2025-12-20,CUST9011,Shirt,Clothing,6,24.9,Net Banking,Delhi
+297,2025-03-04,CUST9899,Jeans,Clothing,7,43.17,UPI,Pune
+298,2025-05-29,CUST1689,Headphones,Electronics,5,65.46,Cash,Pune
+299,2025-12-02,CUST5201,Milk,Groceries,8,3.3,Net Banking,Delhi
+300,2025-12-23,CUST5450,Coffee,Groceries,3,11.06,Net Banking,Chennai
+301,2025-01-26,CUST9700,Shirt,Clothing,4,25.69,Cash,Mumbai
+302,2025-06-19,CUST8739,Rice,Groceries,2,18.65,Credit Card,Hyderabad
+303,2025-03-22,CUST7666,Coffee,Groceries,8,11.95,Credit Card,Delhi
+304,2025-05-27,CUST1969,Shoes,Footwear,2,72.13,Credit Card,Hyderabad
+305,2025-08-02,CUST3880,Headphones,Electronics,1,65.97,UPI,Ahmedabad
+306,2025-05-29,CUST1613,Headphones,Electronics,1,57.58,Net Banking,Mumbai
+307,2025-05-26,CUST8444,Shoes,Footwear,9,70.34,Credit Card,Ahmedabad
+308,2025-04-09,CUST2845,Jeans,Clothing,6,37.3,UPI,Delhi
+309,2025-01-08,CUST6523,Headphones,Electronics,5,60.81,Credit Card,Bengaluru
+310,2025-11-24,CUST7643,Chair,Furniture,7,95.29,Cash,Kolkata
+311,2025-04-05,CUST3303,Phone,Electronics,8,434.12,Credit Card,Hyderabad
+312,2025-07-16,CUST4858,Jeans,Clothing,8,42.03,Debit Card,Delhi
+313,2025-10-21,CUST1187,Chair,Furniture,5,97.92,Credit Card,Hyderabad
+314,2025-08-27,CUST6026,Phone,Electronics,3,441.49,Net Banking,Delhi
+315,2025-11-24,CUST5833,Phone,Electronics,6,460.32,Credit Card,Bengaluru
+316,2025-03-20,CUST8454,Milk,Groceries,10,3.41,Net Banking,Ahmedabad
+317,2025-12-07,CUST4578,Coffee,Groceries,4,12.43,Net Banking,Mumbai
+318,2025-08-17,CUST9653,Coffee,Groceries,6,10.99,Net Banking,Mumbai
+319,2025-10-08,CUST9281,Laptop,Electronics,4,659.45,Credit Card,Bengaluru
+320,2025-09-24,CUST8239,Shoes,Footwear,2,72.52,Net Banking,Ahmedabad
+321,2025-09-19,CUST8298,Phone,Electronics,1,445.81,Net Banking,Kolkata
+322,2025-10-16,CUST1945,Milk,Groceries,9,3.47,Debit Card,Hyderabad
+323,2025-05-11,CUST1049,Rice,Groceries,4,18.28,Cash,Kolkata
+324,2025-12-25,CUST2044,Shoes,Footwear,9,76.92,Cash,Ahmedabad
+325,2025-05-27,CUST7698,Laptop,Electronics,3,684.97,UPI,Pune
+326,2025-08-18,CUST7184,Rice,Groceries,7,16.49,Net Banking,Bengaluru
+327,2025-03-02,CUST3924,Shoes,Footwear,9,68.5,Credit Card,Chennai
+328,2025-01-12,CUST5888,Laptop,Electronics,8,672.55,Net Banking,Kolkata
+329,2025-07-14,CUST4762,Coffee,Groceries,4,11.91,Credit Card,Delhi
+330,2025-02-27,CUST1527,Shirt,Clothing,7,25.57,Cash,Chennai
+331,2025-02-04,CUST2653,Shirt,Clothing,10,22.67,Net Banking,Hyderabad
+332,2025-01-23,CUST7590,Shirt,Clothing,8,23.67,Credit Card,Hyderabad
+333,2025-09-15,CUST5739,Headphones,Electronics,4,63.79,Net Banking,Pune
+334,2025-11-03,CUST6253,Chair,Furniture,4,91.23,Credit Card,Chennai
+335,2025-06-03,CUST5508,Rice,Groceries,1,18.2,Net Banking,Bengaluru
+336,2025-10-12,CUST9120,Rice,Groceries,1,19.7,UPI,Pune
+337,2025-07-29,CUST3444,Rice,Groceries,5,17.56,Net Banking,Ahmedabad
+338,2025-04-26,CUST5927,Shirt,Clothing,3,26.53,Cash,Kolkata
+339,2025-10-13,CUST9683,Rice,Groceries,3,17.6,Debit Card,Chennai
+340,2025-11-28,CUST2295,Shoes,Footwear,8,74.86,Cash,Chennai
+341,2025-05-18,CUST7179,Laptop,Electronics,10,663.38,Cash,Chennai
+342,2025-12-10,CUST4555,Chair,Furniture,8,89.47,Debit Card,Delhi
+343,2025-04-19,CUST4113,Laptop,Electronics,2,682.09,UPI,Chennai
+344,2025-12-27,CUST4350,Chair,Furniture,7,102.89,Net Banking,Pune
+345,2025-07-14,CUST8639,Jeans,Clothing,9,41.19,Debit Card,Delhi
+346,2025-09-20,CUST9147,Shoes,Footwear,8,64.38,UPI,Pune
+347,2025-07-09,CUST6126,Shirt,Clothing,7,22.73,Credit Card,Bengaluru
+348,2025-05-14,CUST7841,Laptop,Electronics,5,604.81,Debit Card,Chennai
+349,2025-10-19,CUST5026,Rice,Groceries,8,18.18,Debit Card,Delhi
+350,2025-11-25,CUST9037,Milk,Groceries,8,3.27,Debit Card,Bengaluru
+351,2025-10-07,CUST9000,Headphones,Electronics,3,65.0,Net Banking,Hyderabad
+352,2025-01-18,CUST2217,Coffee,Groceries,1,12.63,UPI,Bengaluru
+353,2025-02-04,CUST3474,Shirt,Clothing,1,23.59,UPI,Pune
+354,2025-11-13,CUST8916,Laptop,Electronics,8,587.05,Net Banking,Kolkata
+355,2025-01-09,CUST9673,Laptop,Electronics,5,654.65,Debit Card,Hyderabad
+356,2025-12-24,CUST8054,Coffee,Groceries,3,11.06,Cash,Bengaluru
+357,2025-04-09,CUST9625,Shirt,Clothing,5,26.58,Debit Card,Kolkata
+358,2025-07-11,CUST7652,Phone,Electronics,8,455.85,Credit Card,Delhi
+359,2025-12-01,CUST1519,Phone,Electronics,2,441.48,UPI,Ahmedabad
+360,2025-11-23,CUST1154,Laptop,Electronics,3,595.75,UPI,Pune
+361,2025-02-18,CUST9653,Chair,Furniture,1,89.87,Net Banking,Ahmedabad
+362,2025-01-24,CUST2218,Jeans,Clothing,5,43.19,Net Banking,Hyderabad
+363,2025-06-11,CUST1256,Headphones,Electronics,4,61.04,UPI,Mumbai
+364,2025-03-25,CUST4939,Jeans,Clothing,10,42.68,UPI,Pune
+365,2025-03-13,CUST2284,Rice,Groceries,9,18.88,Debit Card,Hyderabad
+366,2025-08-12,CUST4803,Phone,Electronics,2,435.65,Net Banking,Kolkata
+367,2025-01-16,CUST5478,Shoes,Footwear,8,69.87,Debit Card,Kolkata
+368,2025-04-06,CUST7227,Rice,Groceries,2,18.98,Debit Card,Chennai
+369,2025-02-12,CUST5390,Phone,Electronics,3,439.2,Credit Card,Kolkata
+370,2025-07-04,CUST2745,Shoes,Footwear,2,63.07,Debit Card,Ahmedabad
+371,2025-05-19,CUST2674,Shoes,Footwear,3,64.22,UPI,Ahmedabad
+372,2025-10-12,CUST9395,Coffee,Groceries,7,11.05,Cash,Pune
+373,2025-02-17,CUST6315,Coffee,Groceries,7,10.83,UPI,Kolkata
+374,2025-10-14,CUST4977,Phone,Electronics,10,451.9,UPI,Bengaluru
+375,2025-05-18,CUST5933,Headphones,Electronics,5,59.92,Cash,Bengaluru
+376,2025-05-22,CUST7899,Rice,Groceries,5,17.94,Cash,Pune
+377,2025-05-07,CUST9123,Jeans,Clothing,10,40.93,UPI,Mumbai
+378,2025-06-05,CUST1110,Headphones,Electronics,7,57.99,Net Banking,Kolkata
+379,2025-08-14,CUST6484,Shoes,Footwear,7,74.42,Net Banking,Bengaluru
+380,2025-06-14,CUST4290,Jeans,Clothing,8,38.51,UPI,Pune
+381,2025-12-22,CUST9044,Jeans,Clothing,10,42.26,Debit Card,Kolkata
+382,2025-07-21,CUST6980,Jeans,Clothing,2,43.46,Credit Card,Bengaluru
+383,2025-01-14,CUST8563,Coffee,Groceries,4,11.85,Debit Card,Mumbai
+384,2025-12-11,CUST9180,Rice,Groceries,3,18.48,Credit Card,Delhi
+385,2025-08-05,CUST7176,Headphones,Electronics,2,59.39,Net Banking,Ahmedabad
+386,2025-07-25,CUST9755,Chair,Furniture,9,103.05,UPI,Hyderabad
+387,2025-12-26,CUST9796,Shoes,Footwear,10,71.93,Cash,Mumbai
+388,2025-12-03,CUST6816,Shirt,Clothing,3,25.73,Cash,Kolkata
+389,2025-08-09,CUST2735,Shoes,Footwear,1,64.38,Credit Card,Chennai
+390,2025-07-11,CUST7408,Milk,Groceries,8,3.69,Net Banking,Bengaluru
+391,2025-01-13,CUST8909,Shoes,Footwear,2,67.14,Cash,Mumbai
+392,2025-06-28,CUST6110,Headphones,Electronics,6,59.46,Credit Card,Ahmedabad
+393,2025-09-01,CUST2599,Shoes,Footwear,8,73.11,UPI,Pune
+394,2025-06-03,CUST1732,Phone,Electronics,2,407.03,Debit Card,Mumbai
+395,2025-05-05,CUST9454,Headphones,Electronics,3,60.62,Debit Card,Kolkata
+396,2025-04-29,CUST7636,Milk,Groceries,3,3.28,UPI,Kolkata
+397,2025-11-11,CUST4232,Laptop,Electronics,8,661.99,UPI,Hyderabad
+398,2025-04-16,CUST5560,Shirt,Clothing,2,25.39,Net Banking,Bengaluru
+399,2025-06-16,CUST4228,Shoes,Footwear,8,64.6,UPI,Pune
+400,2025-07-18,CUST7431,Chair,Furniture,10,87.67,Debit Card,Ahmedabad
+401,2025-03-30,CUST5873,Chair,Furniture,10,96.71,Credit Card,Pune
+402,2025-05-03,CUST6003,Phone,Electronics,2,421.47,Credit Card,Kolkata
+403,2025-11-02,CUST3258,Rice,Groceries,10,17.58,Credit Card,Ahmedabad
+404,2025-12-22,CUST3838,Coffee,Groceries,9,11.2,Debit Card,Bengaluru
+405,2025-06-11,CUST8389,Headphones,Electronics,10,54.64,Debit Card,Hyderabad
+406,2025-03-11,CUST4196,Milk,Groceries,7,3.82,Net Banking,Ahmedabad
+407,2025-12-17,CUST9056,Rice,Groceries,7,18.76,UPI,Ahmedabad
+408,2025-02-12,CUST1505,Headphones,Electronics,4,57.51,Debit Card,Chennai
+409,2025-05-28,CUST3755,Coffee,Groceries,8,12.16,UPI,Mumbai
+410,2025-02-28,CUST5389,Chair,Furniture,9,101.14,Debit Card,Hyderabad
+411,2025-10-07,CUST4580,Milk,Groceries,7,3.22,Credit Card,Delhi
+412,2025-08-19,CUST5305,Laptop,Electronics,6,697.09,Cash,Ahmedabad
+413,2025-05-02,CUST4438,Phone,Electronics,10,467.02,Net Banking,Kolkata
+414,2025-11-12,CUST3281,Headphones,Electronics,4,63.76,Cash,Pune
+415,2025-05-24,CUST9827,Coffee,Groceries,3,11.58,Debit Card,Delhi
+416,2025-05-17,CUST9428,Chair,Furniture,2,88.08,UPI,Hyderabad
+417,2025-12-02,CUST3078,Jeans,Clothing,3,38.0,Debit Card,Chennai
+418,2025-09-08,CUST3329,Rice,Groceries,10,18.48,UPI,Kolkata
+419,2025-02-08,CUST2525,Milk,Groceries,7,3.51,Debit Card,Pune
+420,2025-09-07,CUST6362,Milk,Groceries,10,3.15,Cash,Ahmedabad
+421,2025-02-02,CUST9756,Shoes,Footwear,7,66.05,UPI,Chennai
+422,2025-05-18,CUST6289,Milk,Groceries,5,3.39,Net Banking,Bengaluru
+423,2025-09-06,CUST6631,Chair,Furniture,1,86.37,UPI,Hyderabad
+424,2025-03-22,CUST8230,Phone,Electronics,8,405.06,UPI,Chennai
+425,2025-11-29,CUST5945,Headphones,Electronics,3,64.49,Debit Card,Mumbai
+426,2025-05-09,CUST2350,Shoes,Footwear,6,72.3,Credit Card,Hyderabad
+427,2025-11-17,CUST6005,Rice,Groceries,4,17.75,Cash,Mumbai
+428,2025-04-20,CUST8812,Laptop,Electronics,2,602.25,Credit Card,Ahmedabad
+429,2025-01-05,CUST6629,Laptop,Electronics,2,713.46,UPI,Bengaluru
+430,2025-02-06,CUST4751,Milk,Groceries,7,3.21,Cash,Mumbai
+431,2025-07-08,CUST5902,Shoes,Footwear,3,68.36,Credit Card,Bengaluru
+432,2025-09-29,CUST1138,Phone,Electronics,10,463.5,UPI,Pune
+433,2025-11-18,CUST3480,Shirt,Clothing,7,25.58,UPI,Chennai
+434,2025-02-21,CUST3293,Phone,Electronics,2,458.06,UPI,Pune
+435,2025-06-11,CUST3290,Rice,Groceries,4,17.2,Cash,Chennai
+436,2025-11-04,CUST5668,Coffee,Groceries,1,12.83,Debit Card,Chennai
+437,2025-11-07,CUST9348,Coffee,Groceries,4,12.59,Debit Card,Hyderabad
+438,2025-09-11,CUST7322,Shirt,Clothing,2,23.71,Net Banking,Mumbai
+439,2025-01-07,CUST6916,Coffee,Groceries,6,11.12,Net Banking,Kolkata
+440,2025-10-07,CUST3830,Shoes,Footwear,8,76.36,Cash,Hyderabad
+441,2025-02-04,CUST1225,Chair,Furniture,5,89.6,Cash,Kolkata
+442,2025-05-27,CUST9209,Coffee,Groceries,7,11.82,UPI,Mumbai
+443,2025-10-03,CUST3501,Coffee,Groceries,5,11.0,Cash,Chennai
+444,2025-10-02,CUST6353,Headphones,Electronics,7,61.04,Cash,Delhi
+445,2025-05-03,CUST1948,Rice,Groceries,4,16.51,UPI,Mumbai
+446,2025-11-10,CUST1901,Milk,Groceries,5,3.62,Credit Card,Mumbai
+447,2025-12-29,CUST3248,Laptop,Electronics,1,606.3,Debit Card,Delhi
+448,2025-07-10,CUST3079,Headphones,Electronics,5,62.8,Cash,Hyderabad
+449,2025-08-08,CUST5456,Shoes,Footwear,9,63.89,Net Banking,Mumbai
+450,2025-08-22,CUST9368,Milk,Groceries,6,3.19,Net Banking,Bengaluru
+451,2025-03-22,CUST5179,Shoes,Footwear,2,75.52,Cash,Chennai
+452,2025-01-02,CUST1721,Coffee,Groceries,1,11.39,UPI,Pune
+453,2025-03-18,CUST3932,Rice,Groceries,1,18.19,UPI,Chennai
+454,2025-05-08,CUST7819,Shoes,Footwear,6,66.8,Cash,Pune
+455,2025-09-15,CUST1862,Phone,Electronics,3,425.09,Net Banking,Hyderabad
+456,2025-02-05,CUST8620,Rice,Groceries,5,18.98,Debit Card,Pune
+457,2025-10-11,CUST8483,Phone,Electronics,1,438.2,Debit Card,Delhi
+458,2025-05-05,CUST8600,Chair,Furniture,6,96.74,UPI,Chennai
+459,2025-05-06,CUST3466,Coffee,Groceries,1,13.04,Cash,Chennai
+460,2025-06-27,CUST1157,Coffee,Groceries,6,10.8,UPI,Delhi
+461,2025-04-16,CUST9680,Phone,Electronics,4,442.78,Cash,Bengaluru
+462,2025-02-17,CUST1719,Jeans,Clothing,4,43.18,Net Banking,Kolkata
+463,2025-08-23,CUST2391,Shoes,Footwear,10,64.34,Credit Card,Kolkata
+464,2025-10-31,CUST2020,Phone,Electronics,7,464.62,Credit Card,Chennai
+465,2025-05-14,CUST6161,Jeans,Clothing,7,41.61,Debit Card,Pune
+466,2025-05-20,CUST4827,Milk,Groceries,2,3.81,Credit Card,Mumbai
+467,2025-02-24,CUST3693,Headphones,Electronics,8,59.59,UPI,Mumbai
+468,2025-07-03,CUST4401,Coffee,Groceries,8,11.54,Debit Card,Mumbai
+469,2025-03-22,CUST5984,Phone,Electronics,10,408.63,Debit Card,Bengaluru
+470,2025-12-31,CUST5066,Phone,Electronics,6,440.66,Cash,Delhi
+471,2025-03-31,CUST1509,Jeans,Clothing,7,42.84,Net Banking,Chennai
+472,2025-08-25,CUST2669,Phone,Electronics,3,415.93,Cash,Chennai
+473,2025-04-12,CUST7563,Headphones,Electronics,6,62.24,Cash,Delhi
+474,2025-01-12,CUST2056,Phone,Electronics,4,486.22,UPI,Bengaluru
+475,2025-06-19,CUST3007,Phone,Electronics,1,489.81,Cash,Bengaluru
+476,2025-08-10,CUST7471,Chair,Furniture,8,86.06,UPI,Bengaluru
+477,2025-04-20,CUST4066,Shoes,Footwear,5,66.92,Credit Card,Hyderabad
+478,2025-11-14,CUST5026,Chair,Furniture,5,94.98,Net Banking,Ahmedabad
+479,2025-02-14,CUST5583,Laptop,Electronics,7,602.84,Credit Card,Chennai
+480,2025-01-10,CUST7266,Coffee,Groceries,6,11.95,UPI,Pune
+481,2025-09-15,CUST6269,Chair,Furniture,7,90.64,Cash,Pune
+482,2025-04-23,CUST1480,Chair,Furniture,5,86.61,UPI,Pune
+483,2025-04-30,CUST3615,Chair,Furniture,2,90.21,Credit Card,Delhi
+484,2025-01-29,CUST4594,Coffee,Groceries,10,12.83,UPI,Pune
+485,2025-04-01,CUST4875,Headphones,Electronics,10,57.82,Debit Card,Hyderabad
+486,2025-10-18,CUST3328,Shoes,Footwear,10,76.28,UPI,Delhi
+487,2025-09-09,CUST1621,Headphones,Electronics,2,54.67,Net Banking,Chennai
+488,2025-09-27,CUST8831,Laptop,Electronics,1,628.13,Net Banking,Chennai
+489,2025-06-24,CUST3907,Headphones,Electronics,6,54.71,Credit Card,Bengaluru
+490,2025-09-27,CUST6978,Phone,Electronics,2,438.62,UPI,Mumbai
+491,2025-06-04,CUST6285,Shoes,Footwear,3,76.66,UPI,Ahmedabad
+492,2025-03-31,CUST6846,Shoes,Footwear,4,72.32,Credit Card,Kolkata
+493,2025-12-19,CUST5825,Jeans,Clothing,3,37.42,Cash,Kolkata
+494,2025-01-17,CUST3983,Chair,Furniture,10,91.55,Net Banking,Chennai
+495,2025-02-23,CUST9129,Chair,Furniture,3,91.79,Cash,Chennai
+496,2025-06-13,CUST3750,Shoes,Footwear,2,74.5,Debit Card,Ahmedabad
+497,2025-05-16,CUST4435,Laptop,Electronics,4,675.11,Debit Card,Delhi
+498,2025-01-01,CUST1788,Phone,Electronics,7,444.44,UPI,Bengaluru
+499,2025-09-10,CUST7204,Rice,Groceries,6,18.17,Cash,Ahmedabad
+500,2025-11-30,CUST4695,Chair,Furniture,3,94.07,Cash,Delhi

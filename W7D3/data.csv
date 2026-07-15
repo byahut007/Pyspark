@@ -1,0 +1,10 @@
+machine_id,location_id,city,installation_date,machine_type,status,total_brews,daily_avg_brews,last_maintenance_date,next_maintenance_due,water_level_liters,bean_level_grams,error_code,is_operational,revenue_generated, data_fetch_time
+CM001,LOC101,Mumbai,2023-01-15,espresso,active,15230,120.5,2024-02-01,2024-05-01,8.5,1200,,true,45600.75,2024-03-20 09:15:30
+CM002,LOC102,Pune,2022-11-20,vending,maintenance,9870,85.3,2024-01-10,,5.0,800,E101,false,28900.50,2024-03-20 09:15:30
+CM003,LOC103,Bangalore,2023-03-05,bean-to-cup,active,20340,150.2,2024-02-20,2024-05-20,10.2,1500,,true,61200.00,2024-03-20 09:15:30
+CM004,LOC104,Delhi,2021-09-12,espresso,inactive,30500,0.0,2023-12-01,2024-03-01,0.0,0,E205,false,80200.25,2024-03-20 09:15:30
+CM005,LOC105,Hyderabad,2023-06-18,vending,active,11200,95.7,2024-03-01,,7.8,950,,true,33450.10,2024-03-20 09:15:30
+CM006,LOC106,Chennai,2022-08-25,bean-to-cup,active,17890,130.4,2024-01-25,2024-04-25,9.1,1400,,true,52500.60,2024-03-20 09:15:30
+CM007,LOC107,Kolkata,2023-02-10,espresso,maintenance,13450,110.0,2024-02-15,2024-05-15,6.5,1100,E110,false,40120.80,2024-03-20 09:15:30
+CM008,LOC108,Ahmedabad,2022-12-30,vending,active,8900,70.5,2024-02-05,2024-05-05,4.2,700,,true,26780.40,2024-03-20 09:15:30
+CM008,LOC108,Delhi,2022-07-30,espresso,active,6900,70.5,2024-02-05,2024-05-05,4.2,700,,true,26780.40,2024-03-20 09:15:30

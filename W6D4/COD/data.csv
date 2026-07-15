@@ -1,0 +1,11 @@
+order_id,order_date,customer_id,customer_name,product_category,product_name,brand,unit_price,quantity,payment_mode,city
+1,2026-01-01,C001,Rahul Sharma,Electronics,Mobile,Apple,50000,1,UPI,Mumbai
+2,2026-01-02,C002,Anita Patel,Electronics,Laptop,Dell,60000,1,Credit Card,Pune
+3,2026-01-03,C003,Amit Verma,Home Appliances,Mixer,Philips,3000,2,Cash,Delhi
+4,2026-01-04,C001,Rahul Sharma,Fashion,T-Shirt,Nike,1500,3,UPI,Mumbai
+5,2026-01-05,C004,Priya Singh,Electronics,Headphones,Sony,2000,2,Debit Card,Bangalore
+6,2026-01-06,C005,John Doe,Fashion,Shoes,Puma,2500,1,Credit Card,Hyderabad
+7,2026-02-01,C002,Anita Patel,Home Appliances,Microwave,LG,12000,1,UPI,Pune
+8,2026-02-03,C006,Neha Gupta,Electronics,Tablet,Samsung,25000,1,Cash,Delhi
+9,2026-02-05,C007,Vikram Rao,Fashion,Jeans,Levis,3000,2,UPI,Mumbai
+10,2026-02-07,C008,Sneha Iyer,Home Appliances,Fridge,Whirlpool,20000,1,Debit Card,Chennai

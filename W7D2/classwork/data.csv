@@ -1,0 +1,21 @@
+movie_id,title,genre,budget,revenue,release_date
+1,Skyfall,Action,150,700,2012-11-09
+2,Frozen,Animation,120,400,2013-11-27
+3,Joker,Thriller,60,1000,2019-10-04
+4,Parasite,Drama,11,300,2019-05-30
+5,Inception,Sci-Fi,160,830,2010-07-16
+6,Interstellar,Sci-Fi,165,650,2014-11-07
+7,Avengers: Endgame,Action,356,2797,2019-04-26
+8,Inside Out,Animation,175,857,2015-06-19
+9,Titanic,Drama,200,2200,1997-12-19
+10,The Dark Knight,Action,185,1005,2008-07-18
+11,Up,Animation,175,735,2009-05-29
+12,Gravity,Sci-Fi,100,723,2013-10-04
+13,Get Out,Thriller,4.5,255,2017-02-24
+14,Black Panther,Action,200,1347,2018-02-16
+15,La La Land,Drama,30,446,2016-12-09
+16,Minions,Animation,74,1159,2015-07-10
+17,Avatar,Sci-Fi,237,2923,2009-12-18
+18,The Martian,Sci-Fi,108,630,2015-10-02
+19,Shutter Island,Thriller,80,295,2010-02-19
+20,1917,Drama,95,384,2019-12-25
